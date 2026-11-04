@@ -1,5 +1,5 @@
 
-ROBOFLOW_API_KEY = "BXKLdU4rfWGVVwzJ5mBZ"
+ROBOFLOW_API_KEY = "your_api_key"
 
 WORKSPACE_NAME = "hello-2aqe0"
 
